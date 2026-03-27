@@ -141,7 +141,3 @@ linear, so you don't need to worry about wrapping around.
 '''
 def can_place_flowers(flowered, n):
     pass
-
-
-'''
-'''
